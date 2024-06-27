@@ -16,10 +16,9 @@ Output: Go vnn
 
 SOLUTION:
 Entering the first name and last name form the user and combining these values into the fullname and then displaying the fullname
-<img width="701" alt="image" src="https://user-images.githubusercontent.com/122486644/213361498-e482fa53-3ca4-4809-84ad-d845422ecee7.png">
 
 For string alteration it will take the fullname from the function and then returns the alternative values by using the slicing operator.
-<img width="752" alt="image" src="https://user-images.githubusercontent.com/122486644/213362070-222f9321-86fd-4fd6-94dc-b8d3d062a7b5.png">
+
 
 
 2.. Write a python program to find the wordcount in a file (input.txt) for each line and then print the output.
